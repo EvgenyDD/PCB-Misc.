@@ -1,0 +1,31 @@
+Drill Size Table Report
+-----------------------
+
+Report Written : 07.06.2013 11:46:28
+Design Path    : S:\1003_GestIC\GestIC_Hillstar\Pulsonix\Electrodes\Reference EL\140x90\Hillstar_140x90_EL_v1_0.pcb
+Design Title   : 
+Created        : 27.07.2012 10:15:13
+Last Saved     : 07.06.2013 11:14:12
+Editing Time   : 5717 min
+
+Drill Size Table
+----------------
+
+Units: mm
+Tolerance: 0.00
+Step: 0.00
+
+Diameter   Count   Plated   Id   Symbol   Symbol Size   Symbol Filled   Min Diameter   Max Diameter	Description
+
+0.25         19       Y     A    Round     0.25               Y         0.25           0.25        	           
+3.20          4             B    Round     3.20               Y         3.20           3.20        	           
+
+Drill ID Parameters
+-------------------
+
+Text Style:  Normal
+
+Offset (from right edge of symbol)  X: 0.000  Y: 0.000 mm
+
+
+                ---------------- End Of Report ----------------

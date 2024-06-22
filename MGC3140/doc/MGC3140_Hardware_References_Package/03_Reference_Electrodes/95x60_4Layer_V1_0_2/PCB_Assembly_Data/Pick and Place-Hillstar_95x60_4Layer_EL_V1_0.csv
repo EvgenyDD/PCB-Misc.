@@ -1,0 +1,3 @@
+Ref;Part Name;Value;Footprint;Side;Placement Centre X;Placement Centre Y;Rotation;
+"ST1";"CON_SLY9_7p";SLY 9 SMD 040/ 20/S;SLY9_7p_V2;Bottom;X= 0.00;Y= 4.03;180;
+"ST2";"CON_FPC_7";n.P.;CON_FPC_7_V2;Bottom;X= -0.00;Y= 10.12;180;
